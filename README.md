@@ -1,3 +1,6 @@
+ # PROJECT DOCUMENTATION
+https://docs.google.com/document/d/12ox6uQmXCqGPOZbz22mYYUy25Zze7LfQRF1iKFYL4wI/edit?tab=t.0
+
 # Endangered Animal Detection using YOLOv8  
 This project trains a YOLOv8 model to detect different animals from images.  
 It uses a custom dataset with 22K images and is trained on Kaggle.  
